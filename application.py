@@ -5,7 +5,8 @@ app = Flask(__name__)
 def hello():
     return "Hello YES SKYNIX World!"
 
-print("Added print")
+def printer(text):
+    return text
 
 if __name__ == "__main__":
     app.run()
