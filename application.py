@@ -8,5 +8,7 @@ def hello():
 def printer(text):
     return text
 
+print("function completed")
+
 if __name__ == "__main__":
     app.run()
