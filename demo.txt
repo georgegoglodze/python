@@ -1,2 +1,4 @@
 DATA about stock prices
 WWW
+
+Some additional values
