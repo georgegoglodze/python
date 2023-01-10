@@ -2,3 +2,4 @@ DATA about stock prices
 WWW
 
 Some additional values
+preparing for merge
