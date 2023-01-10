@@ -1,2 +1,2 @@
 if login:
-    print(yes)
+    print(yes!)
