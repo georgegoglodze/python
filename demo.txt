@@ -3,3 +3,5 @@ WWW
 
 Some additional values
 preparing for merge
+
+fixed text for welcome
