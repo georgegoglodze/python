@@ -1,5 +1,5 @@
 DATA about stock prices
 WWW
-
+yes
 Some additional values
 preparing for merge
