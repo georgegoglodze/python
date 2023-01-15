@@ -1,5 +1,6 @@
 DATA about stock prices
 WWW
+some more files
 
 Some additional values
 preparing for merge
